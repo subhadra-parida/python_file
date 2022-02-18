@@ -1,0 +1,1 @@
+Bank_lists=["kotak","HDFC","RBL","SBI","Bank Of Baroda"]
